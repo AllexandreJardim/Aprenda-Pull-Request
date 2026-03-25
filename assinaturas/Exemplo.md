@@ -4,6 +4,6 @@ Comida favorita: strogonoff
 
 Localidade: São Paulo -SP
 
-Aprendendo: Git
+Aprendendo: Git e github
 
 Sobre: pull request!
