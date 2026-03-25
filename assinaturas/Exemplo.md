@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Alexandre Jardim de Souza
 
-Comida favorita: Pipoca
+Comida favorita: strogonoff
 
 Localidade: São Paulo -SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: pull request!
